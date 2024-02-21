@@ -10,7 +10,13 @@ Chating_Application is a simple chat application implemented in Java using Swing
 
 3. In the first terminal, navigate to the project directory and run the Server:
 
-   4. In the second terminal, navigate to the project directory and run the Client:
+4. In the second terminal, navigate to the project directory and run the Client:
+  
+## Images
+
+![Screenshot 2023-08-27 105317](https://github.com/JILSPATEL/chating-application/assets/100358865/e82173d5-f15e-49c7-8af9-f2ae571b6ba3)
+![Screenshot 2023-08-27 105240](https://github.com/JILSPATEL/chating-application/assets/100358865/bc202f42-ca91-495a-9da4-2bb04e400abb)
+
 
 ## Project Structure
 
